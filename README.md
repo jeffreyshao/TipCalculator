@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Added flavor text that changed with the default tip amount
+- [X] Added flavor text that changed with the default tip amount
 
 ## Video Walkthrough 
 
